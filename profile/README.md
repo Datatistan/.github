@@ -38,4 +38,4 @@ Açık iş birliğine inanıyoruz. **GitHub'da bizi takip edin** ve en son proje
 
 ---
 
-**İletişim**: Daha fazla bilgi için bizimle [email@example.com](mailto:email@example.com) üzerinden iletişime geçebilirsiniz.
+**İletişim**: Daha fazla bilgi için bizimle [datatistan@gmail.com](mailto:datatistan@gmail.com) üzerinden iletişime geçebilirsiniz.
